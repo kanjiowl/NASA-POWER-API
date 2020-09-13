@@ -1,6 +1,7 @@
-# Simple API for accesing NASA Power database
+# Simple API client for accesing NASA Power database
 
-# Reference: https://power.larc.nasa.gov/docs/services/api/v1/temporal/daily/
+# NASA POWER Project : https://power.larc.nasa.gov/ 
+# API Reference: https://power.larc.nasa.gov/docs/services/api/v1/temporal/daily/
 
 import requests 
 import json
