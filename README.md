@@ -1,2 +1,2 @@
 # NASA-POWER-API Python Client
-Access the NASA POWER Meteorological data using Python.
+Python client code to access met data from NASA POWER Project. 
